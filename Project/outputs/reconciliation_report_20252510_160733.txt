@@ -1,0 +1,18 @@
+Reconciliation Report – 2025-10-25 16:07:33
+------------------------------------------------------------
+Total in Cash Register: 10
+Total in Finance System: 10
+
+✅ Matched Transactions: 8
+⚠️ Mismatched Transactions: 1
+❌ Missing in Finance: 1
+➕ Extra in Finance: 1
+
+Details of mismatched transactions:
+- T002: Cash = 15.0 | Finance = 14.0
+
+Transactions missing in Finance:
+- T005 (9.99 EUR)
+
+Transactions extra in Finance:
+- T011 (9.99 EUR)
